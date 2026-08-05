@@ -1,16 +1,49 @@
-## Hi there 👋
+## Shiv Kohli
 
-<!--
-**ShivKohli/ShivKohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and developer based in New York. I take products from idea to shipped: web apps, iOS and Android apps, and the occasional board game. My background is in data analytics and quantitative modeling, and I now spend most of my time building with AI in the loop.
 
-Here are some ideas to get you started:
+**Portfolio → [shivkohli.me](https://shivkohli.me)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm building
+
+**[AmenityResy](https://amenityresy.com)** · Lead Founder
+Amenity reservation and management software for apartment communities. Live on web, iOS, and Android, with clients worldwide. I own product, design, and engineering.
+
+**Dibsly Studio** · Founder and Developer
+A small apps and games studio. Roughly 20k impressions in its first six months.
+
+- **[Morse Code](https://apps.apple.com/us/app/morse-code/id6761066860)** · iOS. Learn and translate Morse, with haptic and audio playback.
+- **[Knobble](https://apps.apple.com/us/app/id6772070618)** · iOS. A minimalist puzzle game.
+- **[Achilles](https://achillesboardgame.com)** · A physical board game with hand-drawn art, currently being rebuilt as online multiplayer.
+- **Saga DM** · An AI dungeon master with persistent campaign memory and fully voiced narration.
+
+---
+
+### How I work
+
+I design and direct the product, then build it with AI agents as a serious part of the toolchain rather than as autocomplete. My portfolio site is the clearest example: an immersive, scroll-driven Three.js experience that I specified, art-directed, and built by pairing with Claude Code, then packaged and [sold as a template](https://shivkohli.gumroad.com/l/mysqcv).
+
+**Working with:** React, Three.js / React Three Fiber, Next.js, TypeScript, Tailwind, Node, Supabase, Vercel, OpenAI and Anthropic APIs, Swift, Python, SQL
+
+---
+
+### Background
+
+- **BBA, Baruch College** (Zicklin School of Business)
+- **Prompt Engineering for ChatGPT**, Vanderbilt University
+- **Google Data Analytics** Professional Certificate
+- Previously Associate Consultant at Trinity Life Sciences, and Operations Coordinator at KASNR Technologies
+
+---
+
+### A note on this profile
+
+Most of my day to day work lives in private repositories, since it is client software and commercial product code. The shipped results are all public and linked above, and I am happy to walk through architecture, tradeoffs, or code in a conversation.
+
+---
+
+### Get in touch
+
+[shivkohli.me](https://shivkohli.me) · [LinkedIn](https://www.linkedin.com/in/shiv-kohli) · shivkohli009@gmail.com
