@@ -14,6 +14,7 @@ Amenity reservation and management software for apartment communities. Live on w
 **Dibsly Studio** · Founder and Developer
 A small apps and games studio. Roughly 20k impressions in its first six months.
 
+- **[Monkeydoku](https://apps.apple.com/us/app/monkeydoku/id6821253026)** · iOS and [Android](https://play.google.com/store/apps/details?id=com.dibsly.monkeydoku). A logic puzzle on a 3D cube you spin with a swipe: 500 puzzles, each with exactly one solution you can reach by logic alone.
 - **[Morse Code](https://apps.apple.com/us/app/morse-code/id6761066860)** · iOS. Learn and translate Morse, with haptic and audio playback.
 - **[Knobble](https://apps.apple.com/us/app/id6772070618)** · iOS. A minimalist puzzle game.
 - **[Achilles](https://achillesboardgame.com)** · A physical board game with hand-drawn art, currently being rebuilt as online multiplayer.
